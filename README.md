@@ -1,5 +1,5 @@
 # Manual QA-Interview-Questions
-500 Manual QA Questions and Answers
+500 Manual QA Questions and Answers :
 Basic Manual QA Concepts
 Test Plan, Test Strategy
 Bug Life Cycle + Defect Reporting
