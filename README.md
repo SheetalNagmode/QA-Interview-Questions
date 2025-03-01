@@ -1,5 +1,5 @@
 📄 Manual QA Interview Questions
-🔥 500 Manual QA Questions and Answers
+🔥 Manual QA Questions and Answers
 This repository contains 500+ Manual QA Interview Questions and Answers to help QA Warriors crack QA interviews in 2025 🚀.
 
 📌 Topics Covered:
